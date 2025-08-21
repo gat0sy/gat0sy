@@ -20,7 +20,6 @@ Currently working on these repos so this place doesn’t look boring and empty..
 *(Working on these right now!)*
 
 ⭐ LEVEL 1: (In Progress)
-
 - **Full-stack SaaS-style App** – auth, file uploads, payments, background jobs.  
 - **Algorithms & Data Structures Repo** – solving 60–100 problems, categorized, with practice CLI.  
 - **Systems/Networking Toy** – async port scanner or proxy, with logging and benchmarks.  
